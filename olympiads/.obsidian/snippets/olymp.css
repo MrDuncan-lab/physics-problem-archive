@@ -1,0 +1,10 @@
+/* Сниппет хранилища олимпиад: спойлеры и рисунки */
+.callout[data-callout="answer"]   { --callout-color: 46, 160, 67;  --callout-icon: lucide-check-circle; }
+.callout[data-callout="solution"] { --callout-color: 56, 132, 255; --callout-icon: lucide-book-open; }
+.callout[data-callout="hint"]     { --callout-color: 230, 160, 30; --callout-icon: lucide-lightbulb; }
+.callout[data-callout="grading"]  { --callout-color: 140, 110, 200; --callout-icon: lucide-list-checks; }
+/* чертежи — чёрные линии на прозрачном фоне: даём им «бумагу», чтобы были видны в тёмной теме */
+.markdown-rendered img[src$=".svg"], .markdown-rendered img[src*=".svg?"],
+.markdown-rendered img[src$=".png"], .markdown-rendered img[src*=".png?"] {
+  background: #fff; padding: 6px; border-radius: 6px; max-width: min(100%, 560px);
+}
