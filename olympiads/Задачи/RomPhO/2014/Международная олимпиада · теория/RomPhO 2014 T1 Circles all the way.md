@@ -123,8 +123,6 @@ Suppose now we remove the springs labeled $0$, $d$, $2d$, …, where $d$ divides
 > **c**
 >
 > $$
-> |   |   |   |   |
-> |---|---|---|---|
 > |\vec{a}_n|=\frac{|a_xv_y-a_yv_x|}{\sqrt{v_x^2+v_y^2}}
 > $$
 >

@@ -42,24 +42,18 @@ Two airplanes pass each other while flying at a constant altitudes. While they h
 > **i**
 >
 > $$
-> |   |   |   |   |
-> |---|---|---|---|
 > |\vec u_1|_{\min}=|\vec v_1-\vec v_2|/2=\frac12\sqrt{v_1^2+v_2^2-2v_1v_2\cos\alpha}.
 > $$
 >
 > **ii**
 >
 > $$
-> |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-> |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 > |\vec w|_{\min}=\frac{|(\vec v_1+\vec v_2)\cdot(\vec v_1-\vec v_2)|}{2|\vec v_1-\vec v_2|}=\frac{||\vec v_1|^2-|\vec v_2|^2|}{2|\vec v_1-\vec v_2|}=\frac{|v_1^2-v_2^2|}{2\sqrt{v_1^2+v_2^2-2v_1v_2\cos\alpha}}.
 > $$
 >
 > **iii**
 >
 > $$
-> |   |   |   |   |   |   |
-> |---|---|---|---|---|---|
 > |\vec w|_{\min}=\left|\frac43\vec v_2-\frac13\vec v_1\right|-\frac23|\vec v_2-\vec v_1|=\frac{\sqrt{17-8\cos\alpha}-4\sin\frac\alpha2}{3}v.
 > $$
 

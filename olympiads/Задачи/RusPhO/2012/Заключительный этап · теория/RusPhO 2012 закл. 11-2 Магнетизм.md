@@ -77,8 +77,6 @@ tags: [задача]
 > ЭДС индукции
 >
 > $$
-> |   |   |
-> |---|---|
 > |\mathcal{E}_\text{и}|=\frac{\Delta\Phi}{\Delta t}=B(v_{AB}-v_{CD})l,
 > $$
 >

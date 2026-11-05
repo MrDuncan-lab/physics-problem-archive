@@ -37,8 +37,6 @@ tags: [задача]
 
 > [!answer]- Ответ
 > $$
-> |   |   |
-> |---|---|
 > |\Delta A|=\Delta U-\Delta Q=\nu\frac{3}{8}RT_1.
 > $$
 
@@ -52,7 +50,5 @@ tags: [задача]
 > ![[ruspho-2000-okrug-theory-p6-f3.svg]]
 >
 > $$
-> |   |   |
-> |---|---|
 > |\Delta A|=\Delta U-\Delta Q=\nu\frac{3}{8}RT_1.
 > $$

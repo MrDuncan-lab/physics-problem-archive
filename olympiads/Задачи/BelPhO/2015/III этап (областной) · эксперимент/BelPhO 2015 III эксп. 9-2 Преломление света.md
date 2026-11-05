@@ -84,8 +84,6 @@ tags: [задача]
 > **1.2**
 >
 > $$
-> |   |   |   |   |
-> |---|---|---|---|
 > |k|=\frac{L-F}{F}\quad\Rightarrow\quad F=\frac{L}{|k|+1}\approx 7{,}2\text{см}
 > $$
 >
