@@ -657,12 +657,7 @@ $$
 
 ¹ Под $g$ имеется в виду набор функций $g_{tt}$, $g_{tx}$, $g_{ty}$, $g_{tz}$, $g_{xx}$, $g_{yy}$, $g_{zz}$, $g_{xy}$, $g_{xz}$, $g_{yz}$. В сферической системе координат в индексах будут $(r, \varphi, \theta)$ вместо $(x, y, z)$
 
-² Для декартовых координат $(x, y, z)$ квадрат интервала равен $ds^2 = g_{tt}(\textbf{r}, t) dt^2+ 2g_{tx}(\textbf{r}, t)dxdt + 2g_{ty}
-(\textbf{r}, t)dydt 
-+ 
-\\
-+
-2g_{tz}(\textbf{r}, t)dzdt + g_{xx}(\textbf{r}, t)dx^2 +  g_{yy}(\textbf{r}, t)dy^2 + g_{zz}(\textbf{r}, t)dz^2  + 2g_{xy}(\textbf{r}, t)dxdy +  2g_{xz}(\textbf{r}, t)dxdz + 2g_{yz}(\textbf{r},t)dydz$.
+² Для декартовых координат $(x, y, z)$ квадрат интервала равен $ds^2 = g_{tt}(\textbf{r}, t) dt^2+ 2g_{tx}(\textbf{r}, t)dxdt + 2g_{ty} (\textbf{r}, t)dydt + \\ + 2g_{tz}(\textbf{r}, t)dzdt + g_{xx}(\textbf{r}, t)dx^2 +  g_{yy}(\textbf{r}, t)dy^2 + g_{zz}(\textbf{r}, t)dz^2  + 2g_{xy}(\textbf{r}, t)dxdy +  2g_{xz}(\textbf{r}, t)dxdz + 2g_{yz}(\textbf{r},t)dydz$.
 
 ³ или максимизирует
 
@@ -1934,12 +1929,7 @@ $$
 >
 > ¹ Под $g$ имеется в виду набор функций $g_{tt}$, $g_{tx}$, $g_{ty}$, $g_{tz}$, $g_{xx}$, $g_{yy}$, $g_{zz}$, $g_{xy}$, $g_{xz}$, $g_{yz}$. В сферической системе координат в индексах будут $(r, \varphi, \theta)$ вместо $(x, y, z)$
 >
-> ² Для декартовых координат $(x, y, z)$ квадрат интервала равен $ds^2 = g_{tt}(\textbf{r}, t) dt^2+ 2g_{tx}(\textbf{r}, t)dxdt + 2g_{ty}
-> (\textbf{r}, t)dydt 
-> + 
-> \\
-> +
-> 2g_{tz}(\textbf{r}, t)dzdt + g_{xx}(\textbf{r}, t)dx^2 +  g_{yy}(\textbf{r}, t)dy^2 + g_{zz}(\textbf{r}, t)dz^2  + 2g_{xy}(\textbf{r}, t)dxdy +  2g_{xz}(\textbf{r}, t)dxdz + 2g_{yz}(\textbf{r},t)dydz$.
+> ² Для декартовых координат $(x, y, z)$ квадрат интервала равен $ds^2 = g_{tt}(\textbf{r}, t) dt^2+ 2g_{tx}(\textbf{r}, t)dxdt + 2g_{ty} (\textbf{r}, t)dydt + \\ + 2g_{tz}(\textbf{r}, t)dzdt + g_{xx}(\textbf{r}, t)dx^2 +  g_{yy}(\textbf{r}, t)dy^2 + g_{zz}(\textbf{r}, t)dz^2  + 2g_{xy}(\textbf{r}, t)dxdy +  2g_{xz}(\textbf{r}, t)dxdz + 2g_{yz}(\textbf{r},t)dydz$.
 >
 > ³ или максимизирует
 >
